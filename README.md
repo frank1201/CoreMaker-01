@@ -296,3 +296,6 @@ Function Test
   2. Modify the main.cpp string to sdcard_example.cpp string in CMakeLists.txt
   2. Re-build image and burn image to pcb board
   3. Check whether there is a file numbers.txt in the sdcard, and the content is a number from 0 to 9. If so, the sdcard function is normal
+  
+coremaker-01
+============
